@@ -40,7 +40,7 @@ cacheSolve <- function(x, ...)
         inv_Mat
 
 }
-
+## assume that the matrix supplied is always invertible
 ## Sample commands to execute: 
 ## a <- matrix(c(1,2,3,4) ,2,2)
 ## b <- makeCacheMatrix(a)
